@@ -62,6 +62,7 @@ Commands:
 /flag (sets country flag)
 
 pathfinder (hold ctrl and punch anywhere you want to go)
+This proxy is only 10dls.
 
 video : https://www.youtube.com/watch?v=IA0t1QXIAbA
 
